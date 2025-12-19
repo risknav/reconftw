@@ -39,3 +39,4 @@ p1radup                 # Tool
 jsbeautifier            # Tool
 git+https://github.com/xnl-h4ck3r/waymore.git                 # Tool
 git+https://github.com/xnl-h4ck3r/xnLinkFinder.git            # Tool
+filelock>=3.20.1 # not directly required, pinned by Snyk to avoid a vulnerability
